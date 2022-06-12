@@ -1,7 +1,7 @@
 > Latest revision: 12 June 2022
 
 # Joniksj Font Pack v4
-Hello y'all! Apologies for discontinuing the original Joniksj Font Pack a few years ago. I've recontinued it now.
+Hello y'all! This is Joniksj. Apologies for discontinuing the original Joniksj Font Pack a few years ago. I've recontinued it now.
 
 ## Version Support
 This pack will have been tested for the following versions:
