@@ -9,3 +9,6 @@ This pack will have been tested for the following versions:
 
 Language Support:
 - (WIP)
+
+### Others
+Do check out this cool fork of an older version of this pack that I found: https://github.com/endorpersand/takyonik-font-pack
