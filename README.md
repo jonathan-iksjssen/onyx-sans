@@ -1,15 +1,8 @@
 > Latest revision: 12 June 2022
 
-# Joniksj Font Pack v4
-Hello y'all! This is Joniksj. Apologies for discontinuing the original Joniksj Font Pack a few years ago. I've recontinued it now.
+# Onyx Sans
+A 12px sans-serif font for Minecraft 1.19. Designed with a balance between detail and legibility in mind. Supports all languages supported by Minecraft's default `bitmap` font.
 
-## Version Support
-This pack will have been tested for the following versions:
-- Minecraft Java **1.18.1**, **1.18.2**, and **1.19**
-- Minecraft Bedrock **1.19**
-
-## Language Support
-- (WIP)
-
-### Others
-Do check out this cool fork of an older version of this pack that I found: https://github.com/endorpersand/takyonik-font-pack
+Changelog:
+# v01 - 11 Sept. 2022
+- Initial Release; +2418 characters
