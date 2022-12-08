@@ -1,4 +1,8 @@
 # Changelog
+
+## v03 - 8 Dec. 2022
+- Updated `pack_format` to `11`
+
 ## v02 - 31 Oct. 2022
 - Changed '0' to dotted instead of slashed
 - Improved curve on '5'
