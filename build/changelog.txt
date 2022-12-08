@@ -1,3 +1,6 @@
+# Version 3
+- Updated pack format to 11, for 1.19.3
+
 # Version 2
 - Changed '0' to dotted instead of slashed
 - Improved curve on '5'
@@ -14,7 +17,6 @@
 - Fixed cent '¢'
 - Simplified superscript and subscript '1'
 * Affects all derivatives
-
 Total: 198 characters changed
 
 # Version 1
