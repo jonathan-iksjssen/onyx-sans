@@ -1,7 +1,7 @@
 # Changelog
 
 ## v03 - 8 Dec. 2022
-- Updated `pack_format` to `11`
+- Updated `pack_format` to `11` for the sake of 1.19.3
 
 ## v02 - 31 Oct. 2022
 - Changed '0' to dotted instead of slashed
